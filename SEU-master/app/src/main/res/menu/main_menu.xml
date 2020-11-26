@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_about_us"
+        android:title="من نحن" />
+
+    <item
+        android:id="@+id/menu_share_app"
+        android:title="انشر التطبيق" />
+
+    <item
+        android:id="@+id/menu_rate_app"
+        android:title="قيم التطبيق" />
+
+    <item
+        android:id="@+id/menu_card"
+        android:title="بطاقة التبرع" />
+
+    <item
+        android:id="@+id/menu_check"
+        android:title="حالة تبرعك" />
+
+    <item
+        android:id="@+id/menu_blood_type"
+        android:title="فصيلتك من تعطي" />
+
+    <item
+        android:id="@+id/menu_log_out"
+        android:title="تسجيل الخروج" />
+
+</menu>
